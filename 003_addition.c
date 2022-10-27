@@ -1,4 +1,3 @@
-//		Addition of two numbers.
 /*
 TITLE : ADDITION OF TWO NUMBERS
 OWNER : MOHD RAZA MOHD RAFIQUE
@@ -47,8 +46,8 @@ void main()
 
 /*
 ABOUT MY YOUTUBE CHANNEL
-NAME :     MR SQUARE
-LINK   :     https://www.youtube.com/channel/UCFQ-C2iL9J9cbE0X1fawH_w
+NAME : MR SQUARE
+LINK : https://www.youtube.com/channel/UCFQ-C2iL9J9cbE0X1fawH_w
 */
 
 

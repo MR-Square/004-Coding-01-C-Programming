@@ -1,4 +1,3 @@
-// In this programme we will see use of "scanf()" function.
 /*
 TITLE : USE OF SCANF FUNCTION
 OWNER : MOHD RAZA MOHD RAFIQUE SHAIKH
@@ -33,8 +32,9 @@ void main()
 	//		Don't forget to put semicolon(;) after completing all statement.
 	
 }
+
 /*
-About my youtube channel
-YOU-TUBE CHANNEL NAME :     MR SQUARE
-YOU-TUBE CHANNEL  LINK   :     https://www.youtube.com/channel/UCFQ-C2iL9J9cbE0X1fawH_w
+ABOUT MY YOUTUBE CHANNEL
+NAME : MR SQUARE
+LINK : https://www.youtube.com/channel/UCFQ-C2iL9J9cbE0X1fawH_w
 */
